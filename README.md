@@ -3,9 +3,13 @@
 🚀 Sobre mim
 
 🎓 Cursando Tecnologia da Informação na Universidade Federal do Rio Grande do Norte
+
 🌱 Estudando Python, Java, C e C++
+
 🗄️ Praticando banco de dados com PostgreSQL
+
 🧪 Aprendendo testes de software com JUnit
+
 🗂️ Linguagens e ferramentas que estudo:
 
 <p align="center">
