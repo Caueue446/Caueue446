@@ -1,5 +1,5 @@
 
-<h1 align="center">Olá! Eu me chamo Cauê Felipe! 👋</h1> <h3 align="center">Estudante de TI no 7º período da UFRN | Em busca do primeiro estágio</h3> <br/>
+<h1 align="center">🔭 Cauê Felipe | Explorando o universo da programação 👋</h1> <h3 align="center">Estudante de TI no 7º período da UFRN | Em busca do primeiro estágio</h3> <br/>
 🚀 Sobre mim
 
 🎓 Cursando Tecnologia da Informação na Universidade Federal do Rio Grande do Norte
